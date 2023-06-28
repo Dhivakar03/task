@@ -1,3 +1,4 @@
 1. cronjob
 2. git pull / push remote
 3. aws cli - create instance
+4. deploy / kunal app on aws instance
