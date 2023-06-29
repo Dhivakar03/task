@@ -2,3 +2,4 @@
 2. git pull / push remote - done
 3. aws cli - create instance - done
 4. deploy / kunal app on aws instance - done
+5. create ansible inventory file with your own - pending
