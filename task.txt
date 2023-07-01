@@ -1,7 +1,7 @@
 1. cronjob - sheduled with script (java installation)
 2. git pull / push remote - done
 3. aws cli - create instance - done
-4. deploy / kunal app on aws instance - 
+4. deploy / kunal app on aws instance - done 
 5. create ssh passwordless auth. - done
 6. configure remote target -server for ansible - done
 7. ansible adhoc remote exec. - done
