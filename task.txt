@@ -6,3 +6,4 @@
 6. configure remote target -server for ansible - done
 7. ansible adhoc remote exec. - done
 8. ansible playbook - write fir YAML file - done
+9. main.tf applied - terraform task
