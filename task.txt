@@ -7,3 +7,5 @@
 7. ansible adhoc remote exec. - done
 8. ansible playbook - write fir YAML file - done
 9. main.tf applied - terraform task
+10. jenkins docker integ. - pending
+11. create jenkins pipeline using docker - pending
